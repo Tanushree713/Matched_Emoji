@@ -1,0 +1,13 @@
+body{
+    color: #fff;
+    background-color: black;
+
+}
+.App{
+     width:  39vw;
+    border: 2px solid #fff;
+    text-align: center;
+    align-content: center;
+    background-color: rgb(101, 3, 247);
+    
+}
